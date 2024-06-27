@@ -87,25 +87,6 @@ For convenience, TFRecords of different datasets are provided:
 | Flowers102 	|    [Link](https://git.io/JBOlw)   	|
 |    Pet37   	|    [Link](https://git.io/JBOWr)   	|
 |   Food101  	|    [Link](https://bit.ly/3iU0ZAq)   	|
-
-## Paper citation
-
-```
-@misc{beyer2021knowledge,
-      title={Knowledge distillation: A good teacher is patient and consistent}, 
-      author={Lucas Beyer and Xiaohua Zhai and Amélie Royer and Larisa Markeeva and Rohan Anil and Alexander Kolesnikov},
-      year={2021},
-      eprint={2106.05237},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
-}
-```
-
-## Acknowledgements
-
-Huge thanks to [Lucas Beyer](https://scholar.google.com/citations?user=p2gwhK4AAAAJ&hl=en) 
-(first author of the paper) for providing suggestions on the initial version of the implementation.
-
 Thanks to the [ML-GDE program](https://developers.google.com/programs/experts/) for providing GCP credits.
 
 Thanks to [TRC](https://sites.research.google/trc/) for providing Cloud TPU access. 
